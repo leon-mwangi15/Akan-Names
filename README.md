@@ -1,6 +1,7 @@
 
 # Akan name generator 
-# Live link:https://leon-mwangi15.github.io/Akan-Names/
+# Live link:
+https://leon-mwangi15.github.io/Akan-Names/
 
 # Description
 This webpage is designed to tell the use their Akan name once they enter their birth date.The Akan name is from the WestAfrican culture specifically Ghanaians.

@@ -1,2 +1,34 @@
-This website enables a user to know their Akan name based on the day of the week of which they were born
+# Description
+# birthdaycalculator 
 
+# Description
+This webpage is designed to tell the use their Akan name once they enter their birth date.The Akan name is from the WestAfrican culture specifically Ghanaians.
+
+# Authoured by:
+Leon Mwangi
+
+# Technologies used :
+HTML,JavaScript and CSS.
+
+# BDD
+User Interface
+
+# Licence
+MIT
+
+# Copyright
+© 2021 GitHub, Inc.
+This webpage is designed to tell the use their Akan name once they enter their birth date.The Akan name is from the WstAfrican culture specifically Ghanaians.
+
+
+# Technologies used :
+HTML,JavaScript and CSS.
+
+# BDD
+User Interface
+
+# Licence
+MIT
+
+# Copyright
+© 2021 GitHub, Inc.
